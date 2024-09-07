@@ -1,0 +1,15 @@
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\ControlFlowAndIterations\bin\Debug\net8.0\ControlFlowAndIterations.exe
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\ControlFlowAndIterations\bin\Debug\net8.0\ControlFlowAndIterations.deps.json
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\ControlFlowAndIterations\bin\Debug\net8.0\ControlFlowAndIterations.runtimeconfig.json
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\ControlFlowAndIterations\bin\Debug\net8.0\ControlFlowAndIterations.dll
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\ControlFlowAndIterations\bin\Debug\net8.0\ControlFlowAndIterations.pdb
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\ControlFlowAndIterations\obj\Debug\net8.0\ControlFlowAndIterations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\ControlFlowAndIterations\obj\Debug\net8.0\ControlFlowAndIterations.AssemblyInfoInputs.cache
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\ControlFlowAndIterations\obj\Debug\net8.0\ControlFlowAndIterations.AssemblyInfo.cs
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\ControlFlowAndIterations\obj\Debug\net8.0\ControlFlowAndIterations.csproj.CoreCompileInputs.cache
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\ControlFlowAndIterations\obj\Debug\net8.0\ControlFlowAndIterations.sourcelink.json
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\ControlFlowAndIterations\obj\Debug\net8.0\ControlFlowAndIterations.dll
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\ControlFlowAndIterations\obj\Debug\net8.0\refint\ControlFlowAndIterations.dll
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\ControlFlowAndIterations\obj\Debug\net8.0\ControlFlowAndIterations.pdb
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\ControlFlowAndIterations\obj\Debug\net8.0\ControlFlowAndIterations.genruntimeconfig.cache
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\ControlFlowAndIterations\obj\Debug\net8.0\ref\ControlFlowAndIterations.dll

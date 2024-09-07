@@ -48,6 +48,22 @@
             Array.ForEach(array, x => Console.Write(x + " "));
             Console.WriteLine();
 
+            //Enumerabe in C#
+            Console.WriteLine();
+            Console.WriteLine("In C# we can create a var object using Enumerable.Range(start, count) to generate sequence");
+
+            var enumerableSeq = Enumerable.Range(1, 5);
+            Console.Write("Enumerable range is ");
+            foreach(int x in enumerableSeq) Console.Write(x + " ");
+
+            //Aggregate
+            Console.WriteLine();
+            Console.WriteLine("\nC# supports Aggregate using var name = arrayName.Aggreate(initial, (accumulator, currentValue) => accumlator *= currentItem)");
+            Console.WriteLine("Where initial can be 1 coz 1 multiplied to anything is same, accumulator stores the result");
+
+            var aggregateResult = enumerableSeq.Aggregate(0, ((accumlator,currentValue) => accumlator += currentValue)); 
+            Console.WriteLine($"Sum of above enumerable seq is {aggregateResult}");
+
             //HashSet
             Console.WriteLine("\nHashset in C# takes array as input and removes duplicates from array" +
                               "\nDeclaration for hashset is HashSet<DataType> name = new HashSet<DataType> (arrayName)");
