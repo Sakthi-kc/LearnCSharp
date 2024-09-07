@@ -1,0 +1,15 @@
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OperatorsAndArrays\bin\Debug\net8.0\OperatorsAndArrays.exe
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OperatorsAndArrays\bin\Debug\net8.0\OperatorsAndArrays.deps.json
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OperatorsAndArrays\bin\Debug\net8.0\OperatorsAndArrays.runtimeconfig.json
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OperatorsAndArrays\bin\Debug\net8.0\OperatorsAndArrays.dll
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OperatorsAndArrays\bin\Debug\net8.0\OperatorsAndArrays.pdb
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OperatorsAndArrays\obj\Debug\net8.0\OperatorsAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OperatorsAndArrays\obj\Debug\net8.0\OperatorsAndArrays.AssemblyInfoInputs.cache
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OperatorsAndArrays\obj\Debug\net8.0\OperatorsAndArrays.AssemblyInfo.cs
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OperatorsAndArrays\obj\Debug\net8.0\OperatorsAndArrays.csproj.CoreCompileInputs.cache
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OperatorsAndArrays\obj\Debug\net8.0\OperatorsAndArrays.sourcelink.json
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OperatorsAndArrays\obj\Debug\net8.0\OperatorsAndArrays.dll
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OperatorsAndArrays\obj\Debug\net8.0\refint\OperatorsAndArrays.dll
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OperatorsAndArrays\obj\Debug\net8.0\OperatorsAndArrays.pdb
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OperatorsAndArrays\obj\Debug\net8.0\OperatorsAndArrays.genruntimeconfig.cache
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OperatorsAndArrays\obj\Debug\net8.0\ref\OperatorsAndArrays.dll
