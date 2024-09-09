@@ -58,7 +58,7 @@
 
             //Aggregate
             Console.WriteLine();
-            Console.WriteLine("\nC# supports Aggregate using var name = arrayName.Aggreate(initial, (accumulator, currentValue) => accumlator *= currentItem)");
+            Console.WriteLine("\nC# supports Aggregate using var name = arrayName.Aggreate(initial, ((accumulator, currentValue) => accumlator *= currentItem))");
             Console.WriteLine("Where initial can be 1 coz 1 multiplied to anything is same, accumulator stores the result");
 
             var aggregateResult = enumerableSeq.Aggregate(0, ((accumlator,currentValue) => accumlator += currentValue)); 
