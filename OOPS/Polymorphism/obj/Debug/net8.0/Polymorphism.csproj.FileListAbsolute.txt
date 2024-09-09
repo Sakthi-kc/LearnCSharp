@@ -1,0 +1,15 @@
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OOPS\Polymorphism\obj\Debug\net8.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OOPS\Polymorphism\obj\Debug\net8.0\Polymorphism.AssemblyInfoInputs.cache
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OOPS\Polymorphism\obj\Debug\net8.0\Polymorphism.AssemblyInfo.cs
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OOPS\Polymorphism\obj\Debug\net8.0\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OOPS\Polymorphism\obj\Debug\net8.0\Polymorphism.sourcelink.json
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OOPS\Polymorphism\bin\Debug\net8.0\Polymorphism.exe
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OOPS\Polymorphism\bin\Debug\net8.0\Polymorphism.deps.json
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OOPS\Polymorphism\bin\Debug\net8.0\Polymorphism.runtimeconfig.json
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OOPS\Polymorphism\bin\Debug\net8.0\Polymorphism.dll
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OOPS\Polymorphism\bin\Debug\net8.0\Polymorphism.pdb
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OOPS\Polymorphism\obj\Debug\net8.0\Polymorphism.dll
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OOPS\Polymorphism\obj\Debug\net8.0\refint\Polymorphism.dll
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OOPS\Polymorphism\obj\Debug\net8.0\Polymorphism.pdb
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OOPS\Polymorphism\obj\Debug\net8.0\Polymorphism.genruntimeconfig.cache
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OOPS\Polymorphism\obj\Debug\net8.0\ref\Polymorphism.dll
