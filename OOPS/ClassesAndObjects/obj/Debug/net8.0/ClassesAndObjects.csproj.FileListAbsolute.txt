@@ -1,0 +1,15 @@
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OOPS\ClassesAndObjects\bin\Debug\net8.0\ClassesAndObjects.exe
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OOPS\ClassesAndObjects\bin\Debug\net8.0\ClassesAndObjects.deps.json
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OOPS\ClassesAndObjects\bin\Debug\net8.0\ClassesAndObjects.runtimeconfig.json
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OOPS\ClassesAndObjects\bin\Debug\net8.0\ClassesAndObjects.dll
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OOPS\ClassesAndObjects\bin\Debug\net8.0\ClassesAndObjects.pdb
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OOPS\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OOPS\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.AssemblyInfoInputs.cache
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OOPS\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.AssemblyInfo.cs
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OOPS\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OOPS\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.sourcelink.json
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OOPS\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.dll
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OOPS\ClassesAndObjects\obj\Debug\net8.0\refint\ClassesAndObjects.dll
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OOPS\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.pdb
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OOPS\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.genruntimeconfig.cache
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\OOPS\ClassesAndObjects\obj\Debug\net8.0\ref\ClassesAndObjects.dll
