@@ -1,0 +1,15 @@
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\FilesAndExceptions\bin\Debug\net8.0\FilesAndExceptions.exe
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\FilesAndExceptions\bin\Debug\net8.0\FilesAndExceptions.deps.json
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\FilesAndExceptions\bin\Debug\net8.0\FilesAndExceptions.runtimeconfig.json
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\FilesAndExceptions\bin\Debug\net8.0\FilesAndExceptions.dll
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\FilesAndExceptions\bin\Debug\net8.0\FilesAndExceptions.pdb
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\FilesAndExceptions\obj\Debug\net8.0\FilesAndExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\FilesAndExceptions\obj\Debug\net8.0\FilesAndExceptions.AssemblyInfoInputs.cache
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\FilesAndExceptions\obj\Debug\net8.0\FilesAndExceptions.AssemblyInfo.cs
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\FilesAndExceptions\obj\Debug\net8.0\FilesAndExceptions.csproj.CoreCompileInputs.cache
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\FilesAndExceptions\obj\Debug\net8.0\FilesAndExceptions.sourcelink.json
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\FilesAndExceptions\obj\Debug\net8.0\FilesAndExceptions.dll
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\FilesAndExceptions\obj\Debug\net8.0\refint\FilesAndExceptions.dll
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\FilesAndExceptions\obj\Debug\net8.0\FilesAndExceptions.pdb
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\FilesAndExceptions\obj\Debug\net8.0\FilesAndExceptions.genruntimeconfig.cache
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\FilesAndExceptions\obj\Debug\net8.0\ref\FilesAndExceptions.dll
