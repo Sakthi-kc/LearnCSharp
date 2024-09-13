@@ -1,0 +1,15 @@
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\StructAndClass\bin\Debug\net8.0\StructAndClass.exe
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\StructAndClass\bin\Debug\net8.0\StructAndClass.deps.json
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\StructAndClass\bin\Debug\net8.0\StructAndClass.runtimeconfig.json
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\StructAndClass\bin\Debug\net8.0\StructAndClass.dll
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\StructAndClass\bin\Debug\net8.0\StructAndClass.pdb
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\StructAndClass\obj\Debug\net8.0\StructAndClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\StructAndClass\obj\Debug\net8.0\StructAndClass.AssemblyInfoInputs.cache
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\StructAndClass\obj\Debug\net8.0\StructAndClass.AssemblyInfo.cs
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\StructAndClass\obj\Debug\net8.0\StructAndClass.csproj.CoreCompileInputs.cache
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\StructAndClass\obj\Debug\net8.0\StructAndClass.sourcelink.json
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\StructAndClass\obj\Debug\net8.0\StructAndClass.dll
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\StructAndClass\obj\Debug\net8.0\refint\StructAndClass.dll
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\StructAndClass\obj\Debug\net8.0\StructAndClass.pdb
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\StructAndClass\obj\Debug\net8.0\StructAndClass.genruntimeconfig.cache
+C:\Users\kcsak\OneDrive\Documents\learning C#\Revision\StructAndClass\obj\Debug\net8.0\ref\StructAndClass.dll
